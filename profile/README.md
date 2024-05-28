@@ -2,11 +2,6 @@
 
 The Free Ignorance Media Organization Github Page
 
-# Our Website
-
-<div align="center">
-<a href="https://sage.af"><img alt="Eye of Providence image linking to Sage website" height="256" width="256" src="https://avatars.githubusercontent.com/u/50443974?s=400&u=06debbcfa42c1e2366930e1c21a8eca02c8b1259&v=4"  /></a>
-</div>
 
 
 ## Install Our Slack Bot
